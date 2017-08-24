@@ -13,7 +13,7 @@ The conventional SSD has a couple of points to be supplemented
 </p>
 
 <p align="center">
-<img src="image/compared.png" alt="SSD Images" width="800px">
+<img src="image/compared.png" alt="SSD Images vs R-SSD Images" width="800px">
 </p>
 
 We tackle this problems as follows
