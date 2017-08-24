@@ -9,11 +9,11 @@ The conventional SSD has a couple of points to be supplemented
    * Small objects are not detected well ( this is not the problem only for SSD)
 
 <p align="center">
-<img src="image/conventional_ssd.png" alt="SSD Framework" width="1000px">
+<img src="image/conventional_ssd.png" alt="SSD Framework" width="600px">
 </p>
 
 <p align="center">
-<img src="image/compared.png" alt="SSD Images" width="1200px">
+<img src="image/compared.png" alt="SSD Images" width="800px">
 </p>
 
 We tackle this problems as follows
