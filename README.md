@@ -8,6 +8,14 @@ The conventional SSD has a couple of points to be supplemented
    * Each layer in the feature pyramid is used independently ( the same object can be detected in multiple scales)
    * Small objects are not detected well ( this is not the problem only for SSD)
 
+<p align="center">
+<img src="image/conventional_ssd.png" alt="SSD Framework" width="1000px">
+</p>
+
+<p align="center">
+<img src="image/compared.png" alt="SSD Images" width="1200px">
+</p>
+
 We tackle this problems as follows
    * The classifier network is implemented considering the relationship between layers in the feature pyramid
    * The number of channels in a layer is increased efficiently
@@ -15,6 +23,4 @@ We tackle this problems as follows
 
 For mare details, please refer to our [arXiv paper](https://arxiv.org/abs/1705.09587)
 
-<p align="center">
-<img src="image/conventional_ssd.png" alt="SSD Framework" width="600px">
-</p>
+
