@@ -16,5 +16,5 @@ We tackle this problems as follows
 For mare details, please refer to our [arXiv paper](https://arxiv.org/abs/1705.09587)
 
 <p align="center">
-<img src="/home/soo/Rainbow/image/conventional_ssd.png" alt="SSD Framework" width="600px">
+<img src="image/conventional_ssd.png" alt="SSD Framework" width="600px">
 </p>
