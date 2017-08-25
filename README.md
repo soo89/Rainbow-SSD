@@ -47,6 +47,7 @@ Pascal VOC model
 To test this model, check "sh" file
   ```Shell
   # check your path in shell script (.sh file)
-  cd /home/soo/caffe_ssd -> cd /your/path
+  # cd /home/soo/caffe_ssd -> cd /your/path
+  ./R_SSD_300model_32.sh  (in file folder)
   ```
 
