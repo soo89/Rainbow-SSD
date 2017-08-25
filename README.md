@@ -8,17 +8,29 @@ By [Jisoo Jeong](http://mipal.snu.ac.kr/index.php/Jisoo_Jeong), [Hyojin Park](ht
 <img src="image/compared.png" alt="SSD Images vs R-SSD Images" width="700px">
 </p>
 
-### The conventional SSD has <font color="red">a couple of points to be supplemented</font>
+#### The conventional [SSD](https://github.com/weiliu89/caffe/tree/ssd) has a couple of points to be supplemented
    * Each layer in the feature pyramid is used independently (the same object can be detected in multiple scales)
    * Small objects are not detected well (this is not the problem only for SSD)
 
 
-### We tackle this problems as follows
+#### We tackle this problems as follows
    * The classifier network is implemented considering the relationship between layers in the feature pyramid
    * The number of channels in a layer is increased efficiently
    * The proposed network is suitable for sharing weights in the classifer network for different scales, resulting in a single classifier network
 
 
-### For more details, please refer to our [arXiv paper](https://arxiv.org/abs/1705.09587)
+#### For more details, please refer to our [arXiv paper](https://arxiv.org/abs/1705.09587)
+
+
+## Citing R-SSD
+
+Please cite R-SSD in your publications if it helps your research
+
+	@article{jeong2017enhancement,
+	  title={Enhancement of SSD by concatenating feature maps for object detection},
+	  author={Jeong, Jisoo and Park, Hyojin and Kwak, Nojun},
+	  journal={arXiv preprint arXiv:1705.09587},
+	  year={2017}
+	}
 
 
