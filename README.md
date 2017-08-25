@@ -44,7 +44,7 @@ Pascal VOC model
    * [R-SSD300 with one classifier(6 boxes)](https://drive.google.com/file/d/0B1gBZEl4EBWZcU84dERNWkRNNms/view?usp=sharing)
 
 | Models | training batch size | mAP 
-|:-------|:-----:|:-------:|
+|:-------:|:-----:|:-------:|
 | R-SSD300 | 32 | 78.7 (higher than paper) |
 | R-SSD521 | 4 | 80.8|
 | R-SSD300 with one classifier(6 boxes) | 8 | 77.0 |
