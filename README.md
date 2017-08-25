@@ -41,7 +41,12 @@ We experimented with R-SSD using the SSD framework. To use our model, complete t
 Pascal VOC model 
    * [R-SSD300](https://drive.google.com/file/d/0B1gBZEl4EBWZUl95aHkyQlBkUWc/view?usp=sharing)
    * [R-SSD512](https://drive.google.com/file/d/0B1gBZEl4EBWZcFUydTI5NjhnRVk/view?usp=sharing)
-   * [R-SSD300 with unified model](https://drive.google.com/file/d/0B1gBZEl4EBWZcU84dERNWkRNNms/view?usp=sharing)
+   * [R-SSD300 with one classifier(6 boxes)](https://drive.google.com/file/d/0B1gBZEl4EBWZcU84dERNWkRNNms/view?usp=sharing)
+
+| Models | training batch size | mAP 
+| R-SSD300 | 32 | 78.7 (higher than paper) |
+| R-SSD521 | 4 | 80.8|
+| R-SSD300 with one classifier(6 boxes) | 8 | 77.0 |
 
 
 To test this model, check "sh" file
