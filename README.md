@@ -35,3 +35,18 @@ Please cite R-SSD in your publications if it helps your research
 
 ## Installation & Preparation
 We experimented with R-SSD using the SSD framework. To use our model, complete the installation & preparation on the [SSD homepage](https://github.com/weiliu89/caffe/tree/ssd)
+
+## Models
+
+Pascal VOC model 
+   * [R-SSD300](https://drive.google.com/file/d/0B1gBZEl4EBWZUl95aHkyQlBkUWc/view?usp=sharing)
+   * [R-SSD512](https://drive.google.com/file/d/0B1gBZEl4EBWZcFUydTI5NjhnRVk/view?usp=sharing)
+   * [R-SSD300 with unified model](https://drive.google.com/file/d/0B1gBZEl4EBWZcU84dERNWkRNNms/view?usp=sharing)
+
+
+To test this model, check "sh" file
+  ```Shell
+  # check your path in shell script (.sh file)
+  cd /home/soo/caffe_ssd -> cd /your/path
+  ```
+
