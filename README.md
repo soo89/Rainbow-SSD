@@ -4,6 +4,10 @@ By [Jisoo Jeong](http://mipal.snu.ac.kr/index.php/Jisoo_Jeong), [Hyojin Park](ht
 
 ## Intoroduction
 
+<p align="center">
+<img src="image/compared.png" alt="SSD Images vs R-SSD Images" width="700px">
+</p>
+
 ### The conventional SSD has <font color="red">a couple of points to be supplemented</font>
    * Each layer in the feature pyramid is used independently (the same object can be detected in multiple scales)
    * Small objects are not detected well (this is not the problem only for SSD)
