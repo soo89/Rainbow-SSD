@@ -5,7 +5,7 @@ By [Jisoo Jeong](http://mipal.snu.ac.kr/index.php/Jisoo_Jeong), [Hyojin Park](ht
 ## Intoroduction
 
 <p align="center">
-<img src="image/compared.png" alt="SSD Images vs R-SSD Images" width="700px">
+<img src="image/compared.png" alt="SSD Images vs R-SSD Images" width="1000px">
 </p>
 
 #### The conventional [SSD](https://github.com/weiliu89/caffe/tree/ssd) has a couple of points to be supplemented
@@ -33,4 +33,5 @@ Please cite R-SSD in your publications if it helps your research
 	  year={2017}
 	}
 
-
+## Installation & Preparation
+We experimented with R-SSD using the SSD framework. To use our model, complete the installation & preparation on the [SSD homepage](https://github.com/weiliu89/caffe/tree/ssd)
