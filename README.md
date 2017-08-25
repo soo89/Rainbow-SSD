@@ -18,7 +18,7 @@ By [Jisoo Jeong](http://mipal.snu.ac.kr/index.php/Jisoo_Jeong), [Hyojin Park](ht
    * The proposed network is suitable for sharing weights in the classifer network for different scales, resulting in a single classifier network
 
 <p align="center">
-<img src="image/R-SSD.png" alt="SSD Images vs R-SSD Images" width="600px">
+<img src="image/R-SSD.png" alt="SSD Images vs R-SSD Images" width="700px">
 </p>
 
 ### For more details, please refer to our [arXiv paper](https://arxiv.org/abs/1705.09587)
